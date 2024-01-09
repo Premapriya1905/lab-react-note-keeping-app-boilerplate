@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(61, 61, 243);
+}
+
+.input-text{
+    height: 50vh;
+    width: 40vw;
+    background-color:rgb(61, 61, 243);
+    color: white;
+}
+
+.output-text{
+    border: 1px solid black;
+    height: 50vh;
+    width: 40vw;
+    color: white;
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.input{
+    color: white;
+}
+.note{
+    color: white;
+
+}
